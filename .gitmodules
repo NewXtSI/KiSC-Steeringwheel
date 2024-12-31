@@ -1,0 +1,3 @@
+[submodule "lib/EspUsbHost"]
+	path = lib/EspUsbHost
+	url = https://github.com/NewXtSI/EspUsbHost.git
